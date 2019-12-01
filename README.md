@@ -1,7 +1,7 @@
 # Bean Backend Challenge 2019
 ### Bean Backend Challenge. Learn, Enjoy, Boast.
 
-![](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)\
+![](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
 #### 빈실 백엔드 챌린지에 오신 여러분 환영합니다!
 
 여러분은 이 챌린지에서 RESTful API를 만들게 될 겁니다.\
