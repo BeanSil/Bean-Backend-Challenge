@@ -1,2 +1,2 @@
-![](https://media.giphy.com/media/xTiN0L7EW5trfOvEk0/giphy.gif)
-### 다음 주에 올라올겁니다. 뭐 아직 다 한거 아니죠?
+1. 자기 깃헙 계정 이름으로 만들어진 폴더로 들어갑니다.
+2. `README.md`에 써진 형식대로 `README.md`를 수정합니다.
