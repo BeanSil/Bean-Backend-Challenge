@@ -1,4 +1,4 @@
-# Bean Backend Challenge 2019
+# Bean Backend Challenge
 ### Bean Backend Challenge. Learn, Enjoy, Boast.
 
 ![](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
@@ -16,9 +16,9 @@ API는 최소 4개의 엔드포인트를 가지고 있어야 합니다. GET, POS
 
 각 프로젝트의 개발은 개인별로 진행하며, 개인 GitHub 계정에서 진행합니다.\
 프로젝트의 개발이 완료되면, [`CONTRIBUTING.md`](./CONTRIBUTING.md)의 내용을 참고해서 Pull Request를 이 리포지토리로 보내주시면 됩니다.
-기한은 2020년 2월 28일까지 입니다.
+<!--기한은 2020년 2월 28일까지 입니다.
 
-모든 개발이 끝나면, 내년 전공 동아리 첫 시간에 여러분이 짠 코드에 대한 코드 리뷰를 진행할 예정입니다. 
+<!--모든 개발이 끝나면, 내년 전공 동아리 첫 시간에 여러분이 짠 코드에 대한 코드 리뷰를 진행할 예정입니다.
 
 #### 주의하실 점
 * 도움 받는 걸 꺼리지 마세요!\
